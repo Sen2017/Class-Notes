@@ -1,0 +1,168 @@
+//my first Sublime Text file.
+
+CLI // Command Line interface
+- Perform Computer fuctions with commands 
+
+GUI // Graphic User Interface
+- Perform Computer fuctions with a graphic interface (looks prettier and is easier to use)
+
+3 lvls of knowing
+1. Knowing and Understanding
+2. Teaching and Reinforcing
+3. Grocking - to understand intuitively
+
+Tools
+1. Sublime Text
+2. Github
+	Git - Version control thing
+
+Commands:
+mkdir [directory name] - create directory
+cd [directory] - change directory
+ls - lists folder contents
+touch [name.txt] - create new file
+git init - in folder, initialize project
+git status - 
+git add [filename] - add file to git 
+git commit -m "[descriptive message]"
+git push - upload to the internets
+
+"clean" means added and committed 
+
+
+markup languages
+
+html - Hyper Text Markup Language
+tags - html, head, title, body (Descriptions of code)
+
+current version HTML 5
+
+structure
+head
+
+body
+// content
+  header
+  footer
+
+  two tabs in
+
+UI - User Interface
+
+UX - User Experience
+
+Goal: Make product user friendly, intuitive, organized
+
+HTML - Site structure
+CSS - Styling
+Javascript - Functionality
+
+CEREAL BOWLS
+
+FOOD AND PLATES AND FORKS AND KNIFE
+
+"I FEEL GOOD"
+
+COLOR AND PRESENTATION
+
+<div aside> 
+
+<ul> Unordered List 
+  <li> list item </li>
+<ol> ordered list 
+  <li>  </li>
+<a> anchor
+
+
+<nav> 
+<a href="value">
+
+IDS and Classes attributes 
+
+ID is unique (once per page)
+  can link
+  Note by #
+Can have multiple classes
+  Note by .s
+New Entries
+
+<div class="content">
+  <h2> Title
+  <h6> Date
+  <Div class="article"
+    <h3>
+    <p>
+
+8/26/16
+
+9/2/16
+
+1 Value (all sides)
+
+2 values (top/bottom, left/right)
+
+4 values (top, left, bottom, right)
+
+3 values for squares 
+  border
+  margin (space either sides
+  padding (inside border)
+
+Go to CSS Tricks "guy knows his stuff"
+
+
+
+PITCHES
+
+Elevator pitch - 
+
+
+Traction pitch - (Proof/referenced data)
+  MVP - Minimal Viable Product (Bare minimum to present to customers - temperature check??)
+    test product/idea minimal resources
+    reduced dev time
+    validation/proof of concept
+      EXAMPLES
+      - Structuring pitch to peers
+      - Comprehensive concept
+      - Counting calls
+      - User demos
+
+**High Concept pitch - describe idea in one or two sentences
+
+My Concept: "Take Spotify's 'other devices' feature and expand it to YouTube/videos. So can send media to other devices" 
+
+[[Widget/Screen overlay]]
+
+
+
+9/16/16
+
+image foler
+
+[Project Root]/image/image.png
+
+[Project Root]/index.html
+
+[Project Root]/css/styles.css ---> 
+
+
+
+Elements
+  Block
+  In-line
+
+
+[][    ]
+[   ]
+
+wrap/contain outer divs and elements
+
+widths can use percentages
+
+
+
+
+
+
+
